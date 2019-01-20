@@ -5,6 +5,7 @@ body {
 
 #logo {
     background: #235E3D;
+    width: 700px;
 }
 
 #menu ul li:hover {
